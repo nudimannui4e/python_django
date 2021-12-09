@@ -1,5 +1,5 @@
 # python_django
-
+![avatar](https://i.imgur.com/6Uow1q4.png)
 ## Запуск локального сервера
 ```
 python manage.py runserver
@@ -19,7 +19,7 @@ INSTALLED_APPS = [
 ## Шаблоны
 ```
 def index(request):
-    return render(request, 'template_name')
+    return render(request, 'main/index.html')
 
 Folder:
 main/templates/main/ file
