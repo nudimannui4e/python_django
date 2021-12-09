@@ -15,3 +15,12 @@ python taskmanager/manage.py startapp main
 INSTALLED_APPS = [
     'main',
 ```
+
+## Шаблоны
+```
+def index(request):
+    return render(request, 'template_name')
+
+Folder:
+main/templates/main/ file
+```
