@@ -3,7 +3,7 @@
 ![avatar](https://i.imgur.com/KeR7wbC.png)
 
 Делалось по уроку:
-[![Django За час](https://www.youtube.com/watch?v=6K83dgjkQNw)
+https://www.youtube.com/watch?v=6K83dgjkQNw
 
 ### Запуск локального сервера
 ```
